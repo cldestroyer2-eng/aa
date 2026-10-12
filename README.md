@@ -31,3 +31,4 @@ No npm install, server, or database is required.
 This is a client-side class activity demo. It does not save registrations to a database or send information to a server.
 # WS_FINAL
 # WS_FINAL
+# WS_FINAL
